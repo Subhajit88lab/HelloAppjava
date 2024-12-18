@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloAppjava</string>
+    <string name="hello_message">Hello world Android!</string>
+    <string name="hello_message_land">Hello landscape orientation Android!</string>
 </resources>
